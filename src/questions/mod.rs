@@ -44,7 +44,7 @@ pub mod q43;
 pub mod q44;
 pub mod q45;
 pub mod q46;
-// pub mod q47;
+pub mod q47;
 // pub mod q48;
 // pub mod q49;
 // pub mod q50;
