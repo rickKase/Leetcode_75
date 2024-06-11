@@ -55,7 +55,7 @@ pub mod q54;
 pub mod q55;
 pub mod q56;
 pub mod q57;
-// pub mod q58;
+pub mod q58;
 // pub mod q59;
 // pub mod q60;
 // pub mod q61;
