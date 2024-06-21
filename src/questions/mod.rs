@@ -63,7 +63,7 @@ pub mod q62;
 pub mod q63;
 pub mod q64;
 pub mod q65;
-// pub mod q66;
+pub mod q66;
 // pub mod q67;
 // pub mod q68;
 // pub mod q69;
